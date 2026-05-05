@@ -7,5 +7,5 @@ Jonathan Le
    
 2. I would use a unit test to test the "max message length" feature of a messaging application because that it is one individual component that can be tested easily. The threshold can be easily tested with cases below 80, exactly 80, over 80, and empty to check for all possible cases of that unit.
 
-https://jonathanle17.github.io/Lab5_Starter/expose.html 
+https://jonathanle17.github.io/Lab5_Starter/expose.html  
 https://jonathanle17.github.io/Lab5_Starter/explore.html
